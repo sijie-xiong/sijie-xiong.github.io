@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Sijie Xiong"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image
+  avatar           : "/assets/images/sijie.jpg" # path of avatar image
   bio              : "ECE PhD candidate"
   location         : "Piscataway, NJ"
   email            :
